@@ -9,5 +9,4 @@ A Duke 6 month coursera class that teaches you cloud computing (AWS, Azure, GCP)
 
 * Google Colab can be shared on this github repo
 
-* Embed an image using trick: drag image from your Desktop to an "Issue" and copy-paste the link: [link](https://github.com/user-attachments/assets/19aadbf8-037a-4aa7-ae3c-3d776f324772)
-  
+* Embed an image using trick: drag image from your Desktop to an "Issue" and copy-paste the link: <img width="866" height="267" alt="Image" src="https://github.com/user-attachments/assets/1a368223-ca46-4049-8019-850b4a0392f0" />
