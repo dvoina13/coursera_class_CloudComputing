@@ -4,5 +4,5 @@ A Duke 6 month coursera class that teaches you cloud computing (AWS, Azure, GCP)
 ## Part 1: Reviewing GitHub, markdown language, Gist
 * this is familiar/known to me so I am running it at 2x speed!
 
-*Still, I created my first [gist](https://gist.github.com/dvoina13/f8ab38dee57b9e8219076acd48116518)
+* Still, I created my first [gist](https://gist.github.com/dvoina13/f8ab38dee57b9e8219076acd48116518)
  
